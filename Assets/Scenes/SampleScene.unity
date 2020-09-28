@@ -396,9 +396,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   imgGaze: {fileID: 1865655884}
+  CubeMerah: {fileID: 423379021}
+  CubeHitam: {fileID: 1441402820}
   totalTime: 2
-  CubeMerah: {fileID: 0}
-  CubeHitam: {fileID: 0}
 --- !u!1 &961399722
 GameObject:
   m_ObjectHideFlags: 0
